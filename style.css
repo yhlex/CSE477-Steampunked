@@ -1,0 +1,16 @@
+#logo {
+    width: 600px;
+    margin: 0 auto;
+}
+
+#form {
+    width: 300px;
+    margin: 0 auto;
+}
+
+input[type="submit"] {
+    width: 7em;
+}
+div.game{
+    border: thin solid black;
+}
